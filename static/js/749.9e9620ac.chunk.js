@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunktest_go_it=self.webpackChunktest_go_it||[]).push([[749],{3749:function(e,t,a){a.r(t),a.d(t,{default:function(){return l}});var s=a(1087),c="HomePage_title__Iqtik",n="HomePage_container__+8deC",r="HomePage_link__V6y8d",i=a(184),l=function(){return(0,i.jsxs)(i.Fragment,{children:[(0,i.jsx)("p",{className:c,children:"Welcome to the rental car service"}),(0,i.jsx)("div",{className:n}),(0,i.jsx)(s.rU,{className:r,to:"/catalog",children:"To catalog"})]})}}}]);
+//# sourceMappingURL=749.9e9620ac.chunk.js.map
