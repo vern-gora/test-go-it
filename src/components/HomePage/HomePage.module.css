@@ -1,0 +1,36 @@
+.title {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #3470ff;
+  font-size: 38px;
+  font-weight: 700;
+}
+
+.container {
+  display: block;
+  width: 100vh;
+  height: 424px;
+  margin-left: auto;
+  background-image: url(../../images//car-hero.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.link {
+  max-width: 160px;
+  padding: 8px 14px;
+  color: black;
+  text-decoration: none;
+  background-color: #2566ff;
+  border-radius: 8px;
+  box-shadow: 1px 1px 3px black;
+  display: flex;
+  gap: 40px;
+  margin-bottom: 8px;
+}
+
+.link:is(:hover, :focus) {
+    color: white;
+    background-color: #2566ff;
+    box-shadow: 1px 5px 3px black;
+}
